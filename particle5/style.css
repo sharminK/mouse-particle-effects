@@ -1,6 +1,3 @@
-body{
-    background: black;
-}
 #canvas1 {
     position: absolute;
     top: 0;
@@ -8,4 +5,5 @@ body{
     width: 100%;
     height: 100%;
     z-index: -10;
+    background: black;
 }
